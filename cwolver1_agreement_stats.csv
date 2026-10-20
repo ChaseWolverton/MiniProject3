@@ -1,0 +1,6 @@
+Field,PercentAgree_Pre,PercentAgree_Post,CohenKappa_Pre,CohenKappa_Post,NumDisagreements,NumResolved,Notes
+HasRecovered,100.0,100.0,1.000,1.000,0,0,Recovery distinguished from isolated maintenance commits.
+WhyRecovered,50.0,100.0,NA,NA,5,5,Free-text descriptions standardized after evidence review.
+ActivityPattern,100.0,100.0,1.000,1.000,0,0,Time-series trends and gap frequency distinguished.
+Currentstatus,80.0,100.0,0.565,1.000,2,2,2025 activity window; deleted repository remains unverifiable.
+RecentThemes,90.0,100.0,NA,NA,1,1,Theme ordering and category wording harmonized.
